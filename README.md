@@ -30,8 +30,6 @@ ASD Prediction (1).ipynb
 
 ---
 
----
-
 # Data
 
 The data related to the subjects in the ABIDE II dataset is split into several files.  
