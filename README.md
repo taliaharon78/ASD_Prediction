@@ -19,6 +19,11 @@ I propose the following framework:
 
 3. **Dimensionality Reduction and Clustering:**  
    As an alternative to supervised classification models, I will investigate whether I can get better results by applying some "brute force" on the same data using only PCA (Principal Component Analysis) and clustering.
+---
+
+# Notebook:
+
+   ASD Prediction (1).ipynb
 
 ---
 
